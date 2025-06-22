@@ -2,7 +2,7 @@ node('master')
 
 {
 
-stage('ContinuousDownload_master') 
+stage('Continuous Download_loan') 
    
 	 {
 	
@@ -10,7 +10,7 @@ stage('ContinuousDownload_master')
     
 	}
 
-stage('Continuousbuild_master') 
+stage('Continuous build_loan') 
    
 	 {
 	
